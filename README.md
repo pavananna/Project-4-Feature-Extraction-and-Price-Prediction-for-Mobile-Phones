@@ -25,6 +25,9 @@
       have used the Label Encoder for the columns Prize , Model, Company _Name, Bateery.
     
 13) Meaching Learning Models:
-      For Traning the model i have used KNN Regressor, Linear Regression, Decision Tree, Support Vector Meachine in that  
+      For Traning the model i have used KNN Regressor, Linear Regression, Decision Tree, Support Vector Meachine, Random 
+      Forest in that Random Forest is the best Model. 
 14) Finding the Feature Importance:
-      For Finding which Fature is Important i have used First Correlation, then ploat the bargraph, scatter plot from that 
+      For Finding which Fature is Important i have used First Correlation, then ploat the bargraph, scatter plot from that
+     when the memory is 110gb , RAM is 8GB, Battery is 5000 and AI lens is 0.00 , Mobile Height is 17 0r 18 the Prize is 
+     high.
